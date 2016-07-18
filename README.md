@@ -9,4 +9,4 @@ Japnese title : 「星のミッキィ　きらきらチーズ」, This is the ga
 「カー○ィ」
 
 # Lisences
-<a href="http://twitter4j.org/"><img src="./images/powered-by-twitter4j-138x30.png" border="0" width="122" height="30"></a>
+<a href="http://twitter4j.org/"><img src="powered-by-twitter4j-138x30.png" border="0" width="122" height="30"></a>
